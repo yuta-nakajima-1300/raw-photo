@@ -13,7 +13,7 @@
     
     <!-- 大きなヒープサイズを要求（RAW画像処理用） -->
     <application
-        android:label="RAW Photo Editor"
+        android:label="Raw Photo"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher"
         android:largeHeap="true"
